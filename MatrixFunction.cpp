@@ -1,5 +1,5 @@
 // MatrixFunction.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Use this project to develop scalar multiplication
 
 #include <iostream>
 using namespace std;
